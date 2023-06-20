@@ -1,16 +1,17 @@
-### Hi there 👋
+### Ola pessoal 👋
 
-<!--
-**jornadadev/jornadadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre fernando
+Atualmente estudo ADS, Esse e meu primeiro desenvolvimento projetos web, Estou muito feliz por ta avançado rapido na Aprendizgem.
+### Detalhes
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jornadadev&show_icons=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jornadadev&repo=tiktok&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jornadadev&layout=compact)
+
+
+### Contatos
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' heigth='30'>]https://www.linkedin.com/in/fernando-silva-87063820a/)
